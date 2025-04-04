@@ -1,1 +1,2 @@
-# lweilnhammer.github.io
+### Education
+Physics, Bachelor's degree, ETH Zurich
