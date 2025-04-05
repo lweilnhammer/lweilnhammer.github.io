@@ -1,3 +1,4 @@
 title: Lisa Weilnhammer
 logo: assets/img/cropped_image.png
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
+# theme: jekyll-theme-minimal
